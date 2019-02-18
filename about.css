@@ -1,0 +1,10 @@
+nav {
+	color: black;
+	text-decoration: none;
+	position: relative;
+	width: 100%;
+}
+
+nav .li {
+	float: right;
+}

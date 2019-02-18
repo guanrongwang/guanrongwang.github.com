@@ -1,0 +1,12 @@
+
+
+#intro {
+	width: 100%;
+}
+
+#intro img {
+	height: 300px;
+	width: auto;
+	float: left;
+	margin-right: 30px;
+}

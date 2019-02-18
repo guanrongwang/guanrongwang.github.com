@@ -1,0 +1,22 @@
+
+
+#map {
+	width: 60%;
+	margin: 0 auto;
+	padding: 60px;
+}
+
+#map img {
+	width: 100%;
+	height: auto;
+
+}
+
+.asia {
+	float: left;
+}
+
+#cities {
+	width: max-content;
+	margin: 0 auto;
+}
