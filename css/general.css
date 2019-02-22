@@ -19,7 +19,7 @@ nav .li a {
 }
 
 nav .li .current {
-	color: pink;
+	color: black;
 	text-decoration: underline;
 }
 
